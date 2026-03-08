@@ -1,0 +1,4 @@
+Scanning 127.0.0.1
+
+Port 135 open
+Port 445 open
